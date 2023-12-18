@@ -17,7 +17,12 @@
   - [x] Learned procedure and location for workflow files
   - [x] Created an event trigger such as "on pull"
 ## Test With Actions
- - [ ] Add a test workflow file
- - [ ] Fix the test
- - [ ] Upload a test report
- - [ ] Add branch protections
+ - [x] Add a test workflow file
+ - [x] Fix the test
+ - [x] Applied build artifacts to test report
+ - [x] Add branch protections
+## Review Pull Requests
+ - [ ] Assign PR to individuals
+ - [ ] Leave a review
+ - [ ] Suggest changes
+ - [ ] Apply and merge changes
