@@ -3,7 +3,11 @@
 
 ## Tasks I'm currently working or have developed from the Github Global Classroom
 - [x] Intro to markdown
-- [ ] Github Flow
+- [x] Github Flow
+  - [x] Creating my first Branch
+  - [x] Creating a pull request
+  - [x] Merging a pull request
+- [ ] Hello Github actions
   
 - 🌱 I’m currently learning ... to be updated relatively soon to detail my endeavors
 - 👯 I’m looking to collaborate on ... nobody :d ttyl pals
