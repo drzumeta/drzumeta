@@ -1,5 +1,7 @@
 # Courses and their respective tasks I'm currently working on from the GitHub Global Classroom / GitHub Skills collection:
 ## Communicate using markdown
+  - [x] Understanding headings
+  - [x] Creating task lists
 ## Github Flow
   - [x] Creating my first Branch
   - [x] Creating a pull request
