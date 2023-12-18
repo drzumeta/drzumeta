@@ -22,7 +22,7 @@
  - [x] Applied build artifacts to test report
  - [x] Add branch protections
 ## Review Pull Requests
- - [ ] Assign PR to individuals
- - [ ] Leave a review
- - [ ] Suggest changes
- - [ ] Apply and merge changes
+ - [x] Assign PR to individuals
+ - [x] Leave a review
+ - [x] Suggest changes
+ - [x] Apply and merge changes
