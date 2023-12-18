@@ -11,8 +11,8 @@
   - [x] Learned procedure and location for workflow files
   - [x] Created an event trigger such as "on pull"
 ## GitHub Pages
-  - [ ] Enable GitHub Pages
-  - [ ] Configure your site
-  - [ ] Customize your home page
-  - [ ] Create a blog post
-  - [ ] Merge your pull request
+  - [x] Enable GitHub Pages
+  - [x] Configure your site
+  - [x] Customize your home page
+  - [x] Create a blog post
+  - [x] Merge your pull request
